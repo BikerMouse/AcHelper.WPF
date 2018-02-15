@@ -32,7 +32,7 @@
     <Folder Include="$(MSBuildThisFileDirectory)ViewModels\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)Resources\AcHelper.Extra.props" />
+    <None Include="$(MSBuildThisFileDirectory)Resources\AcHelper.WPF.props" />
     <None Include="$(MSBuildThisFileDirectory)Resources\AcHelper2015.nuspec" />
     <None Include="$(MSBuildThisFileDirectory)Resources\AcHelper2016.nuspec" />
     <None Include="$(MSBuildThisFileDirectory)Resources\AcHelper2017.nuspec" />
