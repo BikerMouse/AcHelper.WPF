@@ -1,0 +1,16 @@
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\AcHelper.WPF.6.dll.config
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\AcHelper.WPF.6.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\AcHelper.WPF.6.pdb
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\bin\Debug\System.Windows.Interactivity.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\obj\Debug\AcHelper.WPF 2015.csprojResolveAssemblyReference.cache
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\obj\Debug\AcHelper.WPF 2015.csproj.CoreCompileInputs.cache
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\obj\Debug\AcHelper.WPF.6.dll
+C:\TFS\Sander van Bueren\AcHelper\src\AcHelper.WPF\AcHelper.WPF 2015\obj\Debug\AcHelper.WPF.6.pdb
