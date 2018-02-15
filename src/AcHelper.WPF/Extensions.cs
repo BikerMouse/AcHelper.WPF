@@ -7,7 +7,7 @@ using System.Windows.Controls;
 namespace AcHelper.WPF
 {
     /// <summary>
-    /// 
+    /// Extensions for content controls to handle resources and themes.
     /// </summary>
     public static class Extensions
     {
